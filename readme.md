@@ -22,3 +22,6 @@ Create this BOM sub project to managed java libraries used in other sub-projects
 This front end project privides end-user interface.
 Used technologies: ReactJS, NextJS
 
+## Reference links
+https://www.geeksforgeeks.org/spring-boot-3-0-jwt-authentication-with-spring-security-using-mysql-database/
+
